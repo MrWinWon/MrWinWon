@@ -10,7 +10,7 @@ I'm an Android Developer with 7+ total and 5+ java and 4+ kotlin experience.
 
 ### Stats
 
-![MrWinWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwinwon&show_icons=true&theme=gruvbox)
+![MrWinWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwinwon&show_icons=true&theme=dark)
 
 #
 
