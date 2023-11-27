@@ -1,4 +1,8 @@
-### Hi there 👋
+# MrWinWon
+
+**'Android developer'**
+
+I'm an Android Developer with 7+ total and 5+ java and 4+ kotlin experience.
 
 <!--
 **MrWinWon/MrWinWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
