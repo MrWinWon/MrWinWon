@@ -4,7 +4,7 @@
 
 I'm an Android Developer with 7+ total and 5+ java and 4+ kotlin experience.
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,firebase,idea,figma,git,gitlab,gradle,postman,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,firebase,idea,figma,git,gitlab,gradle,postman,github&perline=6)](https://skillicons.dev)
 
 <!--
 **MrWinWon/MrWinWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
