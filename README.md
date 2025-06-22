@@ -2,7 +2,7 @@
 
 **Android developer**
 
-I'm an Android Developer with 7+ total and 5+ java and 4+ kotlin experience.
+I'm an Android Developer with 8+ total and 6+ java and 4+ kotlin experience.
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,firebase,idea,figma,git,gitlab,gradle,postman,github&perline=6)](https://skillicons.dev)
 
